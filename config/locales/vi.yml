@@ -1,0 +1,5 @@
+vi:
+  errors:
+    messages:
+      employees:
+        record_not_found: Không tìm thấy nhân viên theo mã nhân viên %{id}
